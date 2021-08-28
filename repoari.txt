@@ -1,0 +1,3 @@
+paham pemrograman berorientasi objek
+bisa membuat front-end menggunakan javascript
+membuat konten youtube
